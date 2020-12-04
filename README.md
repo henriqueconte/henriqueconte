@@ -38,6 +38,5 @@ Working at Eldorado Research Institute - Porto Alegre.
 
 # Get in touch 📬
 💼 [Linkedin](https://www.linkedin.com/in/henrique-conte-7b2283180/)  
-👨‍💻 [Github](https://github.com/henriqueconte)
 
 
