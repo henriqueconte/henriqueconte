@@ -2,7 +2,7 @@
 
 I am a professional daydreamer passionate about solving real-world problems using technology. At the moment, I study Computer Science in Brazil, and I am looking forward to living abroad and to finding ways to innovate.
 
-Working at Eldorado Research Institute - Porto Alegre.
+Working as iOS Engineer at Eldorado Research Institute - Porto Alegre.
 
 # My released apps 📱
 🎨 [Klee - Draw your music!](https://apps.apple.com/us/app/klee-draw-your-music/id1485449696)  
