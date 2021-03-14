@@ -1,4 +1,4 @@
-### **Hi, I'm Henrique :)**  
+### **Hi, I'm Henrique 🤩**  
 
 I am a professional daydreamer passionate about solving real-world problems using technology. At the moment, I study Computer Science in Brazil, and I am looking forward to living abroad and to finding ways to innovate.
 
