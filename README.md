@@ -1,8 +1,6 @@
 ### **Hi, I'm Henrique 🤩**  
 
-I am a professional daydreamer passionate about solving real-world problems using technology. At the moment, I study Computer Science in Brazil, and I am looking forward to living abroad and to finding ways to innovate.
-
-Working as Senior iOS Engineer at Eldorado Research Institute - Porto Alegre/Brazil.
+I am a professional daydreamer passionate about solving real-world problems using technology. At the moment, I study Information Systems Engineering in France, and I am looking forward to working with diverse teams and to finding ways to innovate.
 
 # My released apps 📱
 🎨 [Klee - Draw your music!](https://apps.apple.com/us/app/klee-draw-your-music/id1485449696)  
